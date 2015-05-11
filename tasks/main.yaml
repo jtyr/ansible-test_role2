@@ -1,0 +1,5 @@
+---
+
+- name: Print message
+  debug:
+    msg: Hello from role 2
